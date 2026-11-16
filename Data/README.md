@@ -40,4 +40,4 @@ simply classify their works into art movements.
 
 ## References 
 
-[1] 	[1] WikiArt, “Artists by art movement,” WikiArt.org. [Online]. Available: https://www.wikiart.org/en/artists-by-art-movement.
+[1] 	 WikiArt, “Artists by art movement,” WikiArt.org. [Online]. Available: https://www.wikiart.org/en/artists-by-art-movement.
