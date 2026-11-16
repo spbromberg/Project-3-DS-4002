@@ -1,4 +1,4 @@
-# DS4002 Project 3 Data: WikiArt 
+# DS4002 Project 3 Data: WikiArt Metadata
 
 ## Data Summary 
 The data is collected from WikiArt: Visual Art Encyclopedia [1], which provides artwork organized by artist, artistic
