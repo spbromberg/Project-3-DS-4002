@@ -11,9 +11,9 @@ We are using painting images collected from publicly available WikiArt: Visual A
 WikiArt, “Artists by art movement,” WikiArt.org. [Online]. Available: https://www.wikiart.org/en/artists-by-art-movement.
 
 ## Software and Platform
--Software: Python 3 (notebooks: [INSERT NAMES HERE])
--Platform: Google Colab
--Python Version: [INSERT VERSION HERE[
+- Software: Python 3 (notebooks: [INSERT NAMES HERE])
+- Platform: Google Colab
+- Python Version: [INSERT VERSION HERE[
 
 | Package | Version | Used for |
 | ------- | ------- | ----------|
