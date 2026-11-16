@@ -23,5 +23,17 @@ permission to use these images is not required. We will not be recreating any pa
 simply classify their works into art movements. 
 
 ## Data Dictionary 
+| Feature | Type | Meaning | Uncertainty |
+| --- | --- | --- | --- |
+| Title | Categorical / string | The title of the artwork, as listed on WikiArt | Titles may have alternate translations or spellings |
+| Artist Name | Categorical / string | The full name of the artist associated with the artwork | Based on WikiArt's attribution; could be incorrect |
+| Artist Slug | Categorical / string | WikiArt's URL-friendly identifier for the artist | Present for all entries; useful for matching works to artists |
+| Movement | Categorical / string | The dataset's class label (Renaissance, Baroque, Romanticism, Impressionism, Cubism, or Other | Artist-level label, not a classification for each individual artwork. "Other" combines several art movements | 
+| Artwork Style | Categorical / string | WikiArt's assigned style or styles. Multiple styles are separated by semicolons | WikiArt metadata; only one record in CSV has no style listed | 
+| Medium | Categorical / string | The materials listed for the artwork. Multiple mediums are separated by semicolons | Based on WikiArt metadata; may use inconsistent wording | 
+| Artwork URL | URL string | The WikiArt webpage for the individual artwork | The link identifies the source page, but pages may change or become unavailable | 
+| Image URL | URL string | The URL from which the image was downloaded | The image is hosted externally and may later move |
+| Image Path | Categorical / string | The path to the downloaded image in the dataset folder | Usable when the image folder or ZIP is extracted with the same folder structure | 
+| Image Archive | ZIP file | ZIP archive of downloaded artwork image files | Analysis must ensure that the ZIP images correspond to the CSV artworks | 
 
 ## Explanatory Plots 
