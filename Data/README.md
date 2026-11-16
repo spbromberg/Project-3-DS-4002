@@ -37,3 +37,7 @@ simply classify their works into art movements.
 | Image Archive | ZIP file | ZIP archive of downloaded artwork image files | Analysis must ensure that the ZIP images correspond to the CSV artworks | 
 
 ## Explanatory Plots 
+
+## References 
+
+[1] 	[1] WikiArt, “Artists by art movement,” WikiArt.org. [Online]. Available: https://www.wikiart.org/en/artists-by-art-movement.
