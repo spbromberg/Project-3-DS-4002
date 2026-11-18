@@ -29,6 +29,7 @@ WikiArt, “Artists by art movement,” WikiArt.org. [Online]. Available: https:
 * Output
 * Scripts
   * 01_Paintings_Project_Dataset_Creation.ipynb
+  * 02_EDA_Paintings_Project.ipynb
 * LICENSE
 * README.md
 
@@ -47,6 +48,10 @@ WikiArt, “Artists by art movement,” WikiArt.org. [Online]. Available: https:
 5. `Define collection helpers:` Run **code cell 4**. These functions find artwork pages, read the image/style/medium metadata, filter for paintings, and save each accepted image.
 6. `Collect the full dataset once:` Run **code cell 5** to collect image data. For each class, walk through the selected artists and keep collecting until the target is reached or the available artist/work pages are exhausted. Save the one-pass results and any request errors for review. This creates a file named "wikiart_paintings.csv" in the output folder. Any errors are saved to "collection_errors.csv"
 7. `Package and download results:` Run **code cell 6** to build a zip file containing only the image files referenced by the CSV, then download the artist list, painting metadata, and image archive from Colab. The zip created is named "wikiart_images.zip" in the output folder.
+
+8. Access the second script in the scripts folder: `02_EDA_Paintings_Project.ipynb`. Open the file in Google Colab or download it.
+9. Load in the data from the previous steps by running **code cell 1**. This also imports necessary packages and previews the data.
+10. `Select a random painting` and display it. Run **code cell 2**. 
 
    
 
