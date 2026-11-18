@@ -42,6 +42,9 @@ simply classify their works into art movements.
 
 <img width="1589" height="400" alt="image" src="https://github.com/user-attachments/assets/3969b341-9d10-41b1-b44d-bed2172282b6" />
 
+Figure 1 shows the distribution of paintings across the six artistic movements. Renaissance, Baroque, and Impressionism have the most paintings, while Cubism has the fewest. This suggests that some class imbalance remains, which we plan to address using class weights during training. Figure 2 shows that most images have heights close to 600 pixels, while their widths vary considerably. The aspect ratios also show a mixture of portrait and landscape paintings. These findings support our decision to resize and standardize the images before training our CNN model.
+
+
 ## References 
 
 [1] 	 WikiArt, “Artists by art movement,” WikiArt.org. [Online]. Available: https://www.wikiart.org/en/artists-by-art-movement.
