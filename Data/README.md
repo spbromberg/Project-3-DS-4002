@@ -38,6 +38,8 @@ simply classify their works into art movements.
 
 ## Explanatory Plots 
 
+<img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/048ec307-da7d-471d-bd4f-513ecad361d0" />
+
 ## References 
 
 [1] 	 WikiArt, “Artists by art movement,” WikiArt.org. [Online]. Available: https://www.wikiart.org/en/artists-by-art-movement.
