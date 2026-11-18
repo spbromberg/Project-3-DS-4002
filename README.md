@@ -34,7 +34,7 @@ WikiArt, “Artists by art movement,” WikiArt.org. [Online]. Available: https:
 
 [INSERT INTRUCTIONS HERE: MAKE SURE TO INCLUDE SPECIFIC LOCATIONS, TABLES, CODE CELLS, TITLES, ETC. I RECOMMEND CLAUDE]
 1. Access the first script in the scripts folder:
-   01_Paintings_Project_Dataset_Creation.ipynb by opening the file in Google Colab or by downloading the file.
+   `01_Paintings_Project_Dataset_Creation.ipynb` by opening the file in Google Colab or by downloading the file.
 2. Read the description at the top of the notebook titled, "WikiArt Painting Dataset." Install dependencies by running **code cell 1**.
 3. Imports and settings: Run **code cell 2**. This loads the libraries, chooses the six movement classes, and sets the per-class goal to 100. It also configures a polite two-second delay plus automatic retries for temporary request failures.
 4. Find and select Artists: Run **code cell 3** to find and and select artists. Saving this list makes it clear which artists were available to the image-collection pass.
