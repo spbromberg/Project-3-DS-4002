@@ -1,0 +1,85 @@
+title,artist_name,image_path,actual_movement,predicted_movement,prediction_confidence,correct
+The Last Supper,Il Sassetta (Stefano di Giovanni),images/sassetta--the-last-supper-1423.jpg,Renaissance,Cubism,0.5018026828765869,False
+St Anthony the Hermit Tortured by the Devils,Il Sassetta (Stefano di Giovanni),images/sassetta--st-anthony-the-hermit-tortured-by-the-devils-1423.jpg,Renaissance,Romanticism,0.8487696647644043,False
+St Thomas Before the Cross,Il Sassetta (Stefano di Giovanni),images/sassetta--st-thomas-before-the-cross-1423.jpg,Renaissance,Renaissance,0.76531982421875,True
+Miracle of the Eucharist,Il Sassetta (Stefano di Giovanni),images/sassetta--miracle-of-the-eucharist-1423.jpg,Renaissance,Renaissance,0.9887893199920654,True
+St Thomas Inspired by the Dove of the Holy Ghost,Il Sassetta (Stefano di Giovanni),images/sassetta--st-thomas-inspired-by-the-dove-of-the-holy-ghost-1423.jpg,Renaissance,Renaissance,0.8056963086128235,True
+Burning of a Heretic,Il Sassetta (Stefano di Giovanni),images/sassetta--burning-of-a-heretic-1426.jpg,Renaissance,Other,0.4492417573928833,False
+Madonna of the Snow Altarpiece,Il Sassetta (Stefano di Giovanni),images/sassetta--madonna-of-the-snow-altarpiece-1432.jpg,Renaissance,Renaissance,0.7157897353172302,True
+"The Annunciation """,Il Sassetta (Stefano di Giovanni),images/sassetta--the-annunciation-1435.jpg,Renaissance,Renaissance,0.8266357779502869,True
+Saint Nicholas of Bari,Il Sassetta (Stefano di Giovanni),images/sassetta--saint-nicholas-of-bari-1435.jpg,Renaissance,Other,0.4422798454761505,False
+The Journey of the Magi,Il Sassetta (Stefano di Giovanni),images/sassetta--the-journey-of-the-magi-1435.jpg,Renaissance,Romanticism,0.7685704231262207,False
+Sant'Agostino,Il Sassetta (Stefano di Giovanni),images/sassetta--santagostino-1437.jpg,Renaissance,Renaissance,0.6733130216598511,True
+Madonna and Child with Angels,Il Sassetta (Stefano di Giovanni),images/sassetta--madonna-and-child-with-angels-1444.jpg,Renaissance,Renaissance,0.6054401993751526,True
+The Damnation of the Soul of the Miserly Citerna,Il Sassetta (Stefano di Giovanni),images/sassetta--the-damnation-of-the-soul-of-the-miserly-citerna-1444.jpg,Renaissance,Other,0.37536635994911194,False
+The Blessed Ranieri Frees the Poor from a Jail in Florence,Il Sassetta (Stefano di Giovanni),images/sassetta--the-blessed-ranieri-frees-the-poor-from-a-jail-in-florence-1444.jpg,Renaissance,Romanticism,0.4288870692253113,False
+The Stigmatisation of Saint Francis,Il Sassetta (Stefano di Giovanni),images/sassetta--the-stigmatisation-of-saint-francis-1444.jpg,Renaissance,Romanticism,0.43020594120025635,False
+Calvary Triptych,Hugo van der Goes,images/hugo-van-der-goes--calvary-triptych-1468.jpg,Renaissance,Renaissance,0.4617963433265686,True
+Calvary Triptych (Central panel),Hugo van der Goes,images/hugo-van-der-goes--calvary-triptych-central-panel-1468.jpg,Renaissance,Romanticism,0.3915664553642273,False
+Calvary Triptych (left panel),Hugo van der Goes,images/hugo-van-der-goes--calvary-triptych-left-wing-1468.jpg,Renaissance,Cubism,0.4067501127719879,False
+Calvary Triptych (Right panel),Hugo van der Goes,images/hugo-van-der-goes--calvary-triptych-right-panel-1468.jpg,Renaissance,Romanticism,0.4486706256866455,False
+Death of the Virgin,Hugo van der Goes,images/hugo-van-der-goes--death-of-the-virgin.jpg,Renaissance,Renaissance,0.5414407849311829,True
+The Adoration of the Kings (Monforte Altar),Hugo van der Goes,images/hugo-van-der-goes--the-adoration-of-the-kings-monforte-altar.jpg,Renaissance,Renaissance,0.29170888662338257,True
+The Crucifixion,Hugo van der Goes,images/hugo-van-der-goes--the-crucifixion.jpg,Renaissance,Romanticism,0.48998570442199707,False
+Portrait Of A Man,Hugo van der Goes,images/hugo-van-der-goes--portrait-of-a-man-1475.jpg,Renaissance,Baroque,0.49587786197662354,False
+Portrait of a Man of Prayer with St. John the Baptist,Hugo van der Goes,images/hugo-van-der-goes--portrait-of-a-man-of-prayer-with-st-john-the-baptist.jpg,Renaissance,Renaissance,0.41784751415252686,True
+Virgin and Child With St. Anne and a Franciscan donor,Hugo van der Goes,images/hugo-van-der-goes--virgin-and-child-with-st-anne-and-a-franciscan-donor.jpg,Renaissance,Renaissance,0.7189149260520935,True
+Portinari Triptych,Hugo van der Goes,images/hugo-van-der-goes--portinari-triptych-1478.jpg,Renaissance,Romanticism,0.6299700140953064,False
+"The Portinari Altarpiece, St. Mary Magdalen and St. Margaret with Maria Baroncelli and Daughter Margherita Portinari, Right Wing",Hugo van der Goes,images/hugo-van-der-goes--the-portinari-altarpiece-st-mary-magdalen-and-st-margaret-with-maria-baroncelli-and-daughter.jpg,Renaissance,Romanticism,0.7983556389808655,False
+Portinari Triptych (detail),Hugo van der Goes,images/hugo-van-der-goes--portinari-triptych-detail-1478.jpg,Renaissance,Romanticism,0.48648038506507874,False
+Portinari Triptych (detail),Hugo van der Goes,images/hugo-van-der-goes--portinari-triptych-detail-1478-1.jpg,Renaissance,Romanticism,0.5630702376365662,False
+Portinari Triptych (detail),Hugo van der Goes,images/hugo-van-der-goes--portinari-triptych-detail-1478-2.jpg,Renaissance,Romanticism,0.2888809144496918,False
+San José Y El Niño Jesús,José Luzán,images/jose-luzan--san-jose-y-el-nino-jesus-1750.jpg,Baroque,Impressionism,0.2830682396888733,False
+"San Valero, San Vicente Mártir, San Pedro Arbués Y Santo Dominguito De Val, En La Gloria",José Luzán,images/jose-luzan--san-valero-san-vicente-martir-san-pedro-arbues-y-santo-dominguito-de-val-en-la-gloria-1757.jpg,Baroque,Baroque,0.7215977311134338,True
+La Venida De La Virgen Del Pilar a Zaragoza,José Luzán,images/jose-luzan--la-venida-de-la-virgen-del-pilar-a-zaragoza-1765.jpg,Baroque,Other,0.5026151537895203,False
+Dream of Joseph,José Luzán,images/jose-luzan--dream-of-joseph-1770.jpeg,Baroque,Renaissance,0.6275603175163269,False
+La Virgen María En El Instante De La Concepción,José Luzán,images/jose-luzan--la-virgen-maria-en-el-instante-de-la-concepcion.jpg,Baroque,Renaissance,0.8223018050193787,False
+Sigurd and Fafnir,Hermann Hendrich,images/hermann-hendrich--sigurd-and-fafnir-1906.jpg,Romanticism,Romanticism,0.6634639501571655,True
+Szene Aus Wagners Ring,Hermann Hendrich,images/hermann-hendrich--szene-aus-wagners-ring-1913.jpg,Romanticism,Impressionism,0.8078228235244751,False
+Mondnacht Am Meer,Hermann Hendrich,images/hermann-hendrich--mondnacht-am-meer.jpg,Romanticism,Romanticism,0.8984820246696472,True
+Wall in Naples,Thomas Jones,images/thomas-jones--wall-in-naples-1782.jpg,Romanticism,Impressionism,0.8819961547851562,False
+The Marabout's Lion,Jean Leon Gerome Ferris,images/jean-leon-gerome-ferris--the-marabouts-lion-1930.jpg,Romanticism,Romanticism,0.6851297616958618,True
+"The First Thanksgiving, 1621",Jean Leon Gerome Ferris,images/jean-leon-gerome-ferris--the-first-thanksgiving-1621.jpg,Romanticism,Romanticism,0.7395355701446533,True
+"Writing the Declaration of Independence, 1776",Jean Leon Gerome Ferris,images/jean-leon-gerome-ferris--writing-the-declaration-of-independence-1776.jpg,Romanticism,Baroque,0.653261661529541,False
+Washington's Inaugration at Philadelphia,Jean Leon Gerome Ferris,images/jean-leon-gerome-ferris--washingtons-inaugration-at-philadelphia.jpg,Romanticism,Baroque,0.7140804529190063,False
+"Victory Ball, 1781",Jean Leon Gerome Ferris,images/jean-leon-gerome-ferris--victory-ball-1781.jpg,Romanticism,Baroque,0.8688624501228333,False
+"The Mayflower Compact, 1620",Jean Leon Gerome Ferris,images/jean-leon-gerome-ferris--the-mayflower-compact-1620-0.jpg,Romanticism,Other,0.41003745794296265,False
+The Landing of William Penn,Jean Leon Gerome Ferris,images/jean-leon-gerome-ferris--the-landing-of-william-penn.jpg,Romanticism,Romanticism,0.4703283905982971,True
+The Fall of New Amsterdam,Jean Leon Gerome Ferris,images/jean-leon-gerome-ferris--the-fall-of-new-amsterdam.jpg,Romanticism,Other,0.44607168436050415,False
+"The Christmas Coach, 1795",Jean Leon Gerome Ferris,images/jean-leon-gerome-ferris--the-christmas-coach-1795.jpg,Romanticism,Baroque,0.6604792475700378,False
+"The Birth of Pennsylvania, 1680",Jean Leon Gerome Ferris,images/jean-leon-gerome-ferris--the-birth-of-pennsylvania-1680.jpg,Romanticism,Romanticism,0.6162546277046204,True
+"Franklin's Return to Philadelphia, 1785",Jean Leon Gerome Ferris,images/jean-leon-gerome-ferris--franklins-return-to-philadelphia-1785.jpg,Romanticism,Romanticism,0.5841557383537292,True
+Captain Kidd in New York Harbor,Jean Leon Gerome Ferris,images/jean-leon-gerome-ferris--captain-kidd-in-new-york-harbor.jpg,Romanticism,Baroque,0.4852355122566223,False
+Building the Cradle of Liberty,Jean Leon Gerome Ferris,images/jean-leon-gerome-ferris--building-the-cradle-of-liberty.jpg,Romanticism,Other,0.498468816280365,False
+"Betsy Ross, 1777",Jean Leon Gerome Ferris,images/jean-leon-gerome-ferris--betsy-ross-1777.jpg,Romanticism,Renaissance,0.7656009793281555,False
+"The Mayflower Compact, 1620",Jean Leon Gerome Ferris,images/jean-leon-gerome-ferris--the-mayflower-compact-1620.jpg,Romanticism,Other,0.41003745794296265,False
+St. Mark's Square in Venice,Maurice Bompard,images/maurice-bompard--st-marks-square-in-venice-1894.jpg,Impressionism,Romanticism,0.6355552077293396,False
+Ouled Naïl De Biskra,Maurice Bompard,images/maurice-bompard--ouled-nail-de-biskra.jpg,Impressionism,Other,0.458810418844223,False
+La Fileuse,Maurice Bompard,images/maurice-bompard--la-fileuse.jpg,Impressionism,Other,0.4865991473197937,False
+A Street In The Oasis Of Chetma,Maurice Bompard,images/maurice-bompard--a-street-in-the-oasis-of-chetma.jpg,Impressionism,Romanticism,0.736920952796936,False
+The Picnic,James Charles,images/james-charles--the-picnic-1904.jpg,Impressionism,Romanticism,0.8388156890869141,False
+"The Flatiron Building, New York",Ernest Lawson,images/ernest-lawson--the-flatiron-building-new-york-1905-0.jpg,Impressionism,Impressionism,0.5355418920516968,True
+"The Flatiron Building, New York",Ernest Lawson,images/ernest-lawson--the-flatiron-building-new-york-1905.jpg,Impressionism,Romanticism,0.5730316638946533,False
+Excavation. Penn Station,Ernest Lawson,images/ernest-lawson--excavation-penn-station-1906.jpeg,Impressionism,Romanticism,0.4297672510147095,False
+Ice in the River,Ernest Lawson,images/ernest-lawson--ice-in-the-river-1907.jpg,Impressionism,Impressionism,0.6188673973083496,True
+An Abandoned Farm,Ernest Lawson,images/ernest-lawson--an-abandoned-farm-1908.jpg,Impressionism,Impressionism,0.8548935651779175,True
+Queensboro Bridge,Ernest Lawson,images/ernest-lawson--queensboro-bridge-1909.jpg,Impressionism,Impressionism,0.4221036732196808,True
+"The Waterfall, Shore's Mill, Tennessee",Ernest Lawson,images/ernest-lawson--the-waterfall-shores-mill-tennessee-1910.jpg,Impressionism,Impressionism,0.7019271850585938,True
+New York Street Scene,Ernest Lawson,images/ernest-lawson--new-york-street-scene-1910.jpg,Impressionism,Other,0.46366024017333984,False
+Harlem River Winter Scene,Ernest Lawson,images/ernest-lawson--harlem-river-winter-scene-1910.jpg,Impressionism,Impressionism,0.7251600623130798,True
+High Bridge. Winter,Ernest Lawson,images/ernest-lawson--high-bridge-winter-1910.jpg,Impressionism,Impressionism,0.9192321300506592,True
+Path Along the River's Edge,Ernest Lawson,images/ernest-lawson--path-along-the-rivers-edge-1910.jpg,Impressionism,Impressionism,0.5489129424095154,True
+High Bridge - Early Moon,Ernest Lawson,images/ernest-lawson--high-bridge-early-moon-1910.jpg,Impressionism,Impressionism,0.4766615927219391,True
+Road down the Palisades,Ernest Lawson,images/ernest-lawson--road-down-the-palisades-1911.jpg,Impressionism,Romanticism,0.487044095993042,False
+Misty Day in March,Ernest Lawson,images/ernest-lawson--misty-day-in-march-1912.jpg,Impressionism,Impressionism,0.5852277874946594,True
+Spring Morning,Ernest Lawson,images/ernest-lawson--spring-morning-1913-0.jpg,Impressionism,Impressionism,0.5324491262435913,True
+The Hunt,Albert Gleizes,images/albert-gleizes--la-chasse-1911.jpg,Cubism,Cubism,0.9816154837608337,True
+The Swimmers,Albert Gleizes,images/albert-gleizes--the-swimmers-1912.jpg,Cubism,Cubism,0.9130725860595703,True
+Egg Beater No. 4,Stuart Davis,images/stuart-davis--egg-beater-no-4-1928.jpg,Cubism,Cubism,0.700901448726654,True
+From their homes,Ivan Vladimirov,images/ivan-vladimirov--from-their-homes.jpg,Other,Romanticism,0.8883628845214844,False
+Photographer in a village,Ivan Vladimirov,images/ivan-vladimirov--photographer-in-a-village-1921.jpg,Other,Impressionism,0.43868836760520935,False
+The Capturing of a Tank near Kakhovka,Ivan Vladimirov,images/ivan-vladimirov--the-capturing-of-a-tank-near-kakhovka-1927.jpg,Other,Romanticism,0.6795200109481812,False
+The Surrender of the Finns in 1940 (Russian-Finnish War),Ivan Vladimirov,images/ivan-vladimirov--the-surrender-of-the-finns-in-1940-russian-finnish-war-1940.jpg,Other,Romanticism,0.713313639163971,False
+31,Benny Andrews,images/benny-andrews--31-1961.jpg,Other,Romanticism,0.39222490787506104,False
+Many Sins,Benny Andrews,images/benny-andrews--many-sins-1964.jpg,Other,Romanticism,0.3730604350566864,False
+Top Floor,Benny Andrews,images/benny-andrews--top-floor-1965.jpg,Other,Cubism,0.5579673051834106,False
