@@ -52,7 +52,11 @@ WikiArt, “Artists by art movement,” WikiArt.org. [Online]. Available: https:
 
 8. Access the second script in the scripts folder: `02_EDA_Paintings_Project.ipynb`. Open the file in Google Colab or download it.
 9. Load in the data from the previous steps by running **code cell 1**. This also imports necessary packages and previews the data.
-10. `Select a random painting` and display it. Run **code cell 2**. 
+10. `Select a random painting` and display it. Run **code cell 2**.
+11. Begin exploratory data analysis: Run **code cell 3**, `Dataset overview`. This displays the dataset shape, column names, data types, missing values, duplicate rows, and duplicate image paths.
+12. Observe the distribution of artistic movements in the dataset. Run **code cell 4** to create a bar chart of the different art movements and their image counts.
+13. `Image Dimensions and Aspect Ratios`: Run **code cell 5** to extract the width, height, and aspect ratio of every painting.
+14. `Image Dimension Distributions`: Run **code cell 6** to create three plots displaying the distribution of image widths, heights, and aspect ratios. These plots suggest that resizing will be necessary before training the CNN to ensure consistent image dimensions. 
 
    
 
