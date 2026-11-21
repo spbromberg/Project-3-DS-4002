@@ -18,13 +18,13 @@ WikiArt, “Artists by art movement,” WikiArt.org. [Online]. Available: https:
 
 | Package | Version | Used for |
 |---|---|---|
-| pandas | Not pinned | Loading and organizing the painting metadata and model results |
-| NumPy | Not pinned | Handling image labels, arrays, and numerical operations |
-| Pillow | Not pinned | Opening, resizing, and saving painting images |
-| PyTorch | Not pinned | Creating datasets and training the ResNet-18 model |
-| Torchvision | Not pinned | Image transformations and pretrained ResNet-18 weights |
-| scikit-learn | Not pinned | Grouped data splitting and model evaluation metrics |
-| Matplotlib | Not pinned | Plotting class counts, training history, metrics, and confusion matrices |
+| pandas | 2.2.3 | Loading and organizing the painting metadata and model results |
+| NumPy | 2.4.6 | Handling image labels, arrays, and numerical operations |
+| Pillow | 11.3.0 | Opening, resizing, and saving painting images |
+| PyTorch | 2.14.1+cpu | Creating datasets and training the ResNet-18 model |
+| Torchvision | 0.29.1+cpu | Image transformations and pretrained ResNet-18 weights |
+| scikit-learn | 1.6.1 | Grouped data splitting and model evaluation metrics |
+| Matplotlib | 3.10.0 | Plotting class counts, training history, metrics, and confusion matrices |
 
 ## Documentation
 
