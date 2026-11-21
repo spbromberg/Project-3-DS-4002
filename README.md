@@ -31,6 +31,7 @@ WikiArt, “Artists by art movement,” WikiArt.org. [Online]. Available: https:
 * Scripts
   * 01_Paintings_Project_Dataset_Creation.ipynb
   * 02_EDA_Paintings_Project.ipynb
+  * 03_Analysis_Paintings_Project.ipynb
 * LICENSE
 * README.md
 
