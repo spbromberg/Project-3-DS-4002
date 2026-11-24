@@ -25,6 +25,7 @@ WikiArt, “Artists by art movement,” WikiArt.org. [Online]. Available: https:
 | Torchvision | 0.29.1+cpu | Image transformations and pretrained ResNet-18 weights |
 | scikit-learn | 1.6.1 | Grouped data splitting and model evaluation metrics |
 | Matplotlib | 3.10.0 | Plotting class counts, training history, metrics, and confusion matrices |
+| Seaborn | 0.13.2 | Creating visualizations during exploratory data analysis (EDA) |
 
 ## Documentation
 
